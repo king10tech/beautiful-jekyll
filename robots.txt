@@ -1,0 +1,6 @@
+User-agent: Googlebot
+User-agent: NaverBot
+Allow: /
+
+Sitemap: http://king10tech.github.io/beautiful-jekyll/sitemap.xml
+
