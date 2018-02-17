@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Check me!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+##안녕하세요! こんにちは! Hello!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm undergraduate student in **Hanyang University(Seoul)**, major in Information System and Computer Science and Engineering.
+- I'm junior developer and interested in ***Java***,***Kotlin***
 
 What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
